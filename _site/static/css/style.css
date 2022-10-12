@@ -1080,6 +1080,10 @@ video {
   max-width: -moz-fit-content;
   max-width: fit-content;
 }
+.max-w-max {
+  max-width: -moz-max-content;
+  max-width: max-content;
+}
 .flex-1 {
   flex: 1 1 0%;
 }
