@@ -9,5 +9,6 @@ node_modules/
 gh-pages
 gh-pages.pub
 
+
 # Local Netlify folder
 .netlify
