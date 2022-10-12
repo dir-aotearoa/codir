@@ -1,7 +1,9 @@
 items:
-  - text: Committee Updates
+  - text: Updates
     url: /blog
-  - text: Committee Members
-    url: /members
+  - text: Committee
+    url: /committee
+  - text: Forum
+    url: /forum
   - text: About
     url: /about
