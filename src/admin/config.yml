@@ -38,6 +38,7 @@ collections:
       - label: "Navigation"
         name: "items"
         file: "src/_data/navigation.yaml"
+        create: true
         fields:
           - label: Nav Items
             name: items
