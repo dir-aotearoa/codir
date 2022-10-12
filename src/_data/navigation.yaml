@@ -1,7 +1,7 @@
 items:
-  - text: Menu One
-    url: "#"
-  - text: Menu Two
-    url: "#"
   - text: Committee Updates
     url: /blog
+  - text: Committee Members
+    url: /members
+  - text: About
+    url: /about
