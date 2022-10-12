@@ -38,12 +38,11 @@ collections:
       - label: "Navigation"
         name: "items"
         file: "src/_data/navigation.yaml"
-        create: true
         fields:
           - label: Nav Items
             name: items
             widget: list
-            allow_add: false
+            allow_add: true
             collapsed: false
             fields:
               - { label: Title, name: text, widget: string }
