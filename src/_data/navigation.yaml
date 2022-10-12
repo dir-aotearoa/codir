@@ -4,4 +4,4 @@ items:
   - text: Menu Two
     url: "#"
   - text: Blog
-    url: /blog
+    url: blog
