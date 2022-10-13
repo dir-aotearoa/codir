@@ -4,26 +4,22 @@ description: Committee founding members announced
 author: Richard Hartshorn
 date: 2022-07-11T02:30:00.000Z
 tags:
-  - left
-  - center
-  - right
+  - Committee
 ---
 *T﻿he founding members for the Committee on Data in Research have been announced following a [national call for expressions of interest](https://www.royalsociety.org.nz/news/aotearoa-new-zealand-national-committee-on-data-in-research-request-for-expressions-of-interest/) supported by Te Apārangi the Royal Society of New Zealand.*
 
-
-
 On behalf of the establishment group for the Aotearoa New Zealand Committee on Data in Research, I am pleased to present the recommended roster for the committee.
 
-* Maryam Alavi, Plant and Food Research, Data Science
-* Michelle Blake, University of Waikato/Council of New Zealand University Librarians/Open Access Australasia Executive Board/International Association of University Libraries Executive Board, Library
-* Bapon Fakhruddin, Tonkin + Taylor, Engineer/Disaster Risk Resilience
-* Richard Hartshorn, University of Canterbury/CODATA Executive Committee/IUPAC Secretary General, Chemistry
-* Nick Jones, NeSI/RDA Organisational Advisory Board, Research Software & Data - Skills & Infrastructure
-* Tahu Kukutai, University of Waikato/Ngā Pae o te Māramatanga/Global Indigenous Data Alliance, Demography
-* Andrew Lensen, Victoria University of Wellington, Artificial Intelligence
-* Barry Milne, University of Auckland/COMPASS, Social Sciences
-* Gerald (Jay) Naepi, Matada Research Group, Pacific peoples
-* Grace Walker, University of Otago/Ngāi Tahu Research Centre/Think Analytic Ltd, Psychology/Data Science
+* **Maryam Alavi**, Plant and Food Research, Data Science
+* **Michelle Blake**, University of Waikato/Council of New Zealand University Librarians/Open Access Australasia Executive Board/International Association of University Libraries Executive Board, Library
+* **Bapon Fakhruddin**, Tonkin + Taylor, Engineer/Disaster Risk Resilience
+* **Richard Hartshorn**, University of Canterbury/CODATA Executive Committee/IUPAC Secretary General, Chemistry
+* **Nick Jones**, NeSI/RDA Organisational Advisory Board, Research Software & Data - Skills & Infrastructure
+* **Tahu Kukutai**, University of Waikato/Ngā Pae o te Māramatanga/Global Indigenous Data Alliance, Demography
+* **Andrew Lensen**, Victoria University of Wellington, Artificial Intelligence
+* **Barry Milne**, University of Auckland/COMPASS, Social Sciences
+* **Gerald (Jay) Naepi**, Matada Research Group, Pacific peoples
+* **Grace Walker**, University of Otago/Ngāi Tahu Research Centre/Think Analytic Ltd, Psychology/Data Science
 
 We received approximately 30 expressions of interest, and it was very challenging to develop a roster that we believe provides a balance of discipline expertise, sector representation, career stage, and diversity. 
 
