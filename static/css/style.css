@@ -1570,12 +1570,6 @@ body pre[class*="language-"] {
   outline-offset: 2px;
 }
 
-@media (min-width: 768px) {
-  .md\:hidden {
-    display: none;
-  }
-}
-
 @media (min-width: 1024px) {
   .lg\:prose-lg {
     font-size: 1.125rem;
@@ -2020,11 +2014,6 @@ body pre[class*="language-"] {
 
   .lg\:hidden {
     display: none;
-  }
-
-  .lg\:h-max {
-    height: -moz-max-content;
-    height: max-content;
   }
 
   .lg\:w-auto {
