@@ -1,9 +1,3 @@
 items:
   - text: Updates
     url: /updates
-  - text: Committee
-    url: /committee
-  - text: Forum
-    url: /forum
-  - text: About
-    url: /about
