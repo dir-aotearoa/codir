@@ -1175,6 +1175,10 @@ video {
   bottom: 0px;
 }
 
+.clear-both {
+  clear: both;
+}
+
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
@@ -1244,6 +1248,11 @@ video {
 
 .h-6 {
   height: 1.5rem;
+}
+
+.h-max {
+  height: -moz-max-content;
+  height: max-content;
 }
 
 .w-full {
