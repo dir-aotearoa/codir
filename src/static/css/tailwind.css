@@ -8,6 +8,10 @@ h1 {
   @apply text-3xl tracking-tighter mb-3 text-center lg:text-7xl lg:mt-44;
 }
 
+h2 {
+  @apply text-2xl tracking-tighter mb-3 text-left lg:text-3xl lg:mt-24;
+}
+
 h3 {
   @apply text-xl font-bold mb-3;
 }
