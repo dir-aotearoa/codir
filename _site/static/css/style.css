@@ -1558,6 +1558,11 @@ body pre[class*="language-"] {
     height: 100vh;
   }
 
+  .lg\:h-max {
+    height: -moz-max-content;
+    height: max-content;
+  }
+
   .lg\:w-auto {
     width: auto;
   }
