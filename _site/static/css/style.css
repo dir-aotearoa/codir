@@ -1074,6 +1074,10 @@ video {
 .w-6 {
   width: 1.5rem;
 }
+.w-max {
+  width: -moz-max-content;
+  width: max-content;
+}
 .max-w-max {
   max-width: -moz-max-content;
   max-width: max-content;
