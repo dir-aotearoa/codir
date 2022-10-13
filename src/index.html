@@ -12,7 +12,7 @@ path: home
     </strong>
   </h1>
 
-  <p>{{ settings.about | safe }}</p>
+  <p>{{ settings.about | markdownify | safe }}</p>
 
   {% include "./_includes/partials/content.html" %}
   
