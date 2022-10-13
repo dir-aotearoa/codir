@@ -29,6 +29,7 @@ links:
 
 
       CODATA achieves these objectives through a number of **[standing committees and strategic executive led initiatives](https://codata.org/initiatives/strategic-programme/)**, and through its **[Task Groups](https://codata.org/initiatives/task-groups/)** and **[Working Groups](https://codata.org/working-groups).**  CODATA supports the **[Data Science Journal](http://datascience.codata.org/)** and collaborates on major data conferences like **[SciDataCon](http://www.scidatacon.org/2016/)** and **[International Data Week](http://internationaldataweek.org/)**
+    logo: /static/img/codata_new_logo-1.png
   - url: https://www.worlddatasystem.org/
     title: World Data System
     desc: The World Data System promotes long-term stewardship of, and universal and
@@ -87,6 +88,7 @@ links:
       2. Nurture active disciplinary and multidisciplinary scientific data services communities
 
       3. Make trustworthy data services an integral part of international collaborative scientific research
+    logo: /static/img/wds_logo.png
   - title: RDA - Research Data Alliance
     url: https://www.rd-alliance.org/
     desc: RDA has a grass-roots, inclusive approach covering all data lifecycle
@@ -152,3 +154,4 @@ links:
       * Adoption in infrastructure environments by individuals, projects and organisations
 
       To improve global data sharing, exchange and interoperability, RDA works on raising awareness and expanding the adoption of these outputs across all regions of the world.
+    logo: /static/img/rda_logo.png
