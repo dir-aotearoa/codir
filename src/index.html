@@ -3,6 +3,7 @@ layout: default
 title: Committee on Data in Research
 home: Data in Research
 path: home
+links: International Communities
 ---
 
 <div class="container clear-both mx-auto flex flex-col justify-center items-center">
@@ -14,6 +15,12 @@ path: home
 
   <p class="prose lg:prose-lg my-4 mx-auto">{{ settings.about | safe }}</p>
 
+  <h2>
+    <strong class="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-purple-500">
+      {{links}}
+    </strong>
+  </h2>
+  
   {% include "./_includes/partials/content.html" %}
   
 </div>
