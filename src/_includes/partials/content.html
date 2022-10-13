@@ -4,6 +4,9 @@
 
         {% for item in quicklinks.links %}
             <a href="{{item.url}}" target="_blank" class="p-5 border rounded border-gray-200 hover:border-purple-400">
+               
+               <img src="{{item.logo}}" class="justify-center items-center">
+
                 <h3>{{item.title}}
                     →</h3>
                 <p>{{item.desc}}</p>
