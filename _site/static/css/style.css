@@ -1290,6 +1290,7 @@ h1 {
 @media (min-width: 1024px) {
 
   h1 {
+    margin-top: 11rem;
     font-size: 4.5rem;
     line-height: 1;
   }
@@ -1323,13 +1324,6 @@ body pre[class*="language-"] {
 .focus\:outline-none:focus {
   outline: 2px solid transparent;
   outline-offset: 2px;
-}
-
-@media (min-width: 768px) {
-
-  .md\:hidden {
-    display: none;
-  }
 }
 
 @media (min-width: 1024px) {
@@ -1777,11 +1771,6 @@ body pre[class*="language-"] {
 
   .lg\:hidden {
     display: none;
-  }
-
-  .lg\:h-max {
-    height: -moz-max-content;
-    height: max-content;
   }
 
   .lg\:w-auto {
