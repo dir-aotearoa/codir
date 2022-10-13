@@ -60,6 +60,13 @@ collections:
               - { label: URL, name: url, widget: string }
               - { label: Description, name: desc, widget: string }
               - { label: About, name: about, widget: markdown }
+              - label: Featured Image
+                name: logo
+                widget: image
+                choose_url: true
+                media_library:
+                 config:
+                  multiple: false
       - label: "Meta Settings"
         name: "settings"
         file: "src/_data/settings.yaml"
