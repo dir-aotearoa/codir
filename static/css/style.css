@@ -1512,6 +1512,7 @@ video {
 /*Your Custom CSS Goes here*/
 
 h1 {
+  margin-top: 4rem;
   margin-bottom: 0.75rem;
   text-align: center;
   font-size: 1.875rem;
