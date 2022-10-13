@@ -1788,8 +1788,9 @@ body pre[class*="language-"] {
     display: none;
   }
 
-  .lg\:h-screen {
-    height: 100vh;
+  .lg\:h-max {
+    height: -moz-max-content;
+    height: max-content;
   }
 
   .lg\:w-auto {
