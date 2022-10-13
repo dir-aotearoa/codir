@@ -1,6 +1,6 @@
 ---
 title: Founding members announced
-description: Founding members announced
+description: Committee founding members announced
 author: Richard Hartshorn
 date: 2022-07-11T02:30:00.000Z
 tags:
