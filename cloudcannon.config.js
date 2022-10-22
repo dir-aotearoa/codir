@@ -20,7 +20,7 @@ module.exports = {
   collections_config: {
     people: {
       // Base path for files in this collection, relative to source
-      path: 'content/people',
+      path: 'people',
 
       // Whether this collection produces output files or not
       output: true,
