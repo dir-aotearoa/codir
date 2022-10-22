@@ -6,6 +6,6 @@
     "start": "node ../../../../node_modules/@11ty/eleventy/cmd.js --quiet"
   },
   "devDependencies": {
-    "@bookshop/eleventy-bookshop": "file:../../../../../javascript-modules/generator-plugins/eleventy/eleventy-bookshop"
+    "@bookshop/eleventy-bookshop": "3.3.0"
   }
 }

@@ -5,6 +5,6 @@
     "start": "bookshop-init"
   },
   "devDependencies": {
-    "@bookshop/init": "file:../../../javascript-modules/init"
+    "@bookshop/init": "3.3.0"
   }
 }

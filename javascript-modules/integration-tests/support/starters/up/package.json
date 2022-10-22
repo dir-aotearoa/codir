@@ -5,6 +5,6 @@
     "start": "bookshop-up"
   },
   "devDependencies": {
-    "@bookshop/up": "file:../../../javascript-modules/up"
+    "@bookshop/up": "3.3.0"
   }
 }

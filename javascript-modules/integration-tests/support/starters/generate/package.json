@@ -7,6 +7,6 @@
     "cc-hugo": "cloudcannon-hugo --baseURL /"
   },
   "devDependencies": {
-    "@bookshop/generate": "file:../../../javascript-modules/generate"
+    "@bookshop/generate": "3.3.0"
   }
 }
