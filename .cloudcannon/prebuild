@@ -1,3 +1,5 @@
 #!/usr/bin/env bash
 
 npm install -D tailwindcss
+
+tailwindcss -i ./src/css/tailwind.css -o ./_site/css/style.css --watch
