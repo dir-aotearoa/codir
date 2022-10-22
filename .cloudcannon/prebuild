@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-npx tailwindcss -i ./src/static/css/tailwind.css -o ./_site/static/css/style.css --watch
