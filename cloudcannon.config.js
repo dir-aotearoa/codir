@@ -14,7 +14,7 @@ module.exports = {
   source: 'src',
 
   // The subpath your built output files are mounted at
-  base_url: '/documentation',
+  base_url: '/site',
 
   // Populates collections for navigation and metadata in the editor
   collections_config: {
