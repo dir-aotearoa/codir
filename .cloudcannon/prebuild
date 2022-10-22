@@ -1,5 +1,3 @@
 #!/usr/bin/env bash
 
-npm install -D tailwindcss postcss autoprefixer
-
 npx tailwindcss -i ./src/static/css/tailwind.css -o ./_site/static/css/style.css --watch
