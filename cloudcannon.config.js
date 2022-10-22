@@ -34,7 +34,7 @@ module.exports = {
       output: true
     },
     pages: {
-      name: 'Main pages'
+      name: 'Pages'
     }
   },
 
@@ -50,12 +50,12 @@ module.exports = {
     uploads: 'assets/uploads',
 
     // The path to site data files, relative to source
-    data: 'data', // defaults to _data
+    data: '_data', // defaults to _data
 
     // The path to site layout files, relative to source
-    layouts: '_layouts', // defaults to _includes
+    layouts: '_includes', // defaults to _includes
 
     // The path to site include files, relative to source
-    includes: '_partials' // defaults to _includes
+    includes: '_includes' // defaults to _includes
   }
 };
