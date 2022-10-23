@@ -2,10 +2,11 @@ const yaml = require("js-yaml");
 const { DateTime } = require("luxon");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const htmlmin = require("html-minifier");
-
+const pluginTailwind = require("@jamshop/eleventy-plugin-tailwind");
+  
 module.exports = function (eleventyConfig) {
-  // Disable automatic use of your .gitignore
-  eleventyConfig.setUseGitIgnore(false);
+    // Disable automatic use of your .gitignore
+    eleventyConfig.setUseGitIgnore(false  )    ;
 
   // Merge data instead of overriding
   eleventyConfig.setDataDeepMerge(true);
@@ -53,6 +54,12 @@ module.exports = function (eleventyConfig) {
     }
 
     return content;
+  });
+
+  eleventyConfig.addPlugin(pluginTailwind, {
+    entry: "./src/static/css/tailwind.css",
+    output: "./_site/static/css/tailwind.css",
+    inputDir: "src"
   });
 
   // Let Eleventy transform HTML files as nunjucks
