@@ -5,8 +5,8 @@ const htmlmin = require("html-minifier");
 const pluginTailwind = require("@jamshop/eleventy-plugin-tailwind");
   
 module.exports = function (eleventyConfig) {
-    // Disable automatic use of your .gitignore
-    eleventyConfig.setUseGitIgnore(false  )    ;
+  // Disable automatic use of your .gitignore
+  eleventyConfig.setUseGitIgnore(false);
 
   // Merge data instead of overriding
   eleventyConfig.setDataDeepMerge(true);
@@ -55,8 +55,8 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addPlugin(pluginTailwind, {
-    entry: "./src/static/css/tailwind.css",
-    output: "./_site/static/css/tailwind.css",
+    entry: "src/static/css/tailwind.css",
+    output: "_site/static/css/style.css",
     inputDir: "src"
   });
 
